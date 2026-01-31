@@ -2,7 +2,7 @@ FROM ubuntu:latest
 
 ENV TOKEN=
 ENV RUNNER_NAME=
-ENV RUNNER_URL="https://github.com/wulfland/GitHubActionsCookbook"
+ENV RUNNER_URL="https://github.com/jrrpedersen/GitHubActions"
 ENV GH_RUNNER_PLATFORM="linux-arm64"
 ENV GH_RUNNER_VERSION="2.311.0"
 ENV LABELS="self-hosted,ARM64,Linux"
